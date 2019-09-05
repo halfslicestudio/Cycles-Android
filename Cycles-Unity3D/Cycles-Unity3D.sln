@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.VSCode.Editor", "Unit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Rider.Editor", "Unity.Rider.Editor.csproj", "{C540080A-BED7-978E-DDFC-EE09E5DBB722}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cycles-Unity3D.Editor", "Cycles-Unity3D.Editor.csproj", "{C611AA55-0BCC-CC2D-0E1B-EE0DB8E8876C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -91,6 +93,10 @@ Global
 		{C540080A-BED7-978E-DDFC-EE09E5DBB722}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C540080A-BED7-978E-DDFC-EE09E5DBB722}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C540080A-BED7-978E-DDFC-EE09E5DBB722}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C611AA55-0BCC-CC2D-0E1B-EE0DB8E8876C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C611AA55-0BCC-CC2D-0E1B-EE0DB8E8876C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C611AA55-0BCC-CC2D-0E1B-EE0DB8E8876C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C611AA55-0BCC-CC2D-0E1B-EE0DB8E8876C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
